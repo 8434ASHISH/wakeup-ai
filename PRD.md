@@ -288,9 +288,7 @@ Gemini API
 
 ⚠ IMPORTANT SECURITY REQUIREMENT
 
-API Key:
-
-AIzaSyAs2eMkxD7sGqQEl-Ez99blRsqD7-Gu4QQ
+API Key- ******As2**Mkx****QEl-Ez9***lRsqD7-****
 
 ✅ Key Handling Policy:
 
@@ -320,4 +318,5 @@ Sensitive credentials including API keys must be securely stored using environme
 ✔ Increased wake consistency
 ✔ Improved habit streaks
 ✔ User engagement with AI
+
 *MUST FOLLOW THE USER IMAGE DESIGN UPLOADED BY HIM*
